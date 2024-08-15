@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maheshvarma47
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...machine learning
 - 🌱 I’m currently learning ...c programming
 - 💞️ I’m looking to collaborate on ...best programming teqam
 - 📫 How to reach me ...please mail me to reach
